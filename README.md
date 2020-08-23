@@ -6,6 +6,6 @@ Before using this, make sure that
 - you have installed google-chrome/Chromium
 - you have installed chrome-driver
 
-Then just using it :)
+Then just run it :)
 
 Hope anyone always be healthy
